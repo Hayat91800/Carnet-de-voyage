@@ -14,6 +14,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Carnet de Voyage de Hayat")
+                .font(.largeTitle)
+                .multilineTextAlignment(.center)
         }
         .padding()
     }
