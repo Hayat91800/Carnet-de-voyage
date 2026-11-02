@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Xcode : réglages personnels de l'utilisateur
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
